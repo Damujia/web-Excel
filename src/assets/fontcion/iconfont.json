@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1008561",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "1115086",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "1259928",
+      "name": "编辑站点",
+      "font_class": "bianjizhandian",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "2237879",
+      "name": "风险等级-01",
+      "font_class": "fengxiandengji-",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2459357",
+      "name": "系统",
+      "font_class": "system-copy",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "5147488",
+      "name": "设备",
+      "font_class": "app_icons--",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7586703",
+      "name": "设计生产",
+      "font_class": "shejishengchan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "9712605",
+      "name": "工艺管理",
+      "font_class": "gongyiguanli",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    }
+  ]
+}

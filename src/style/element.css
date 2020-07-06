@@ -1,0 +1,48 @@
+.produce1 .anniu {
+  display: flex;
+}
+.produce1 .dialog .el-input {
+  width: 100%;
+}
+.produce1 .setbtn {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.produce1 .setbtn .getorder {
+  display: flex;
+}
+.produce1 .setbtn .getorder .el-input {
+  margin-right: 10px;
+}
+.produce1 .setbtn .getorder .items {
+  border: 1px solid #cac7c7;
+  font-size: 14px;
+  height: 38px;
+  line-height: 38px;
+  color: #fff;
+  background-color: #409eff;
+  border-radius: 4px 0 0 4px;
+  padding: 0 12px;
+}
+.produce1 .el-input {
+  width: 250px;
+}
+.produce1 .el-table th {
+  color: #000;
+  background-color: rgba(102, 102, 102, 0.342) !important;
+}
+tr.current-row > td {
+  background-color: #3f8ff8 !important;
+  color: #fff;
+}
+.el-table .cell {
+  text-align: center !important;
+}
+.el-input-group__prepend {
+  background-color: #409eff;
+  color: #fff;
+}
+.box .el-dialog {
+  width: 74%;
+}

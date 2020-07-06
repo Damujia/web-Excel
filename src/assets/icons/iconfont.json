@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "504565",
+      "name": "撤销",
+      "font_class": "chexiao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "2488141",
+      "name": "拆分",
+      "font_class": "chaifen",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "2781698",
+      "name": "数据恢复",
+      "font_class": "shujuhuifu",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "3216137",
+      "name": "左对齐",
+      "font_class": "icon--",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "3264930",
+      "name": "居中",
+      "font_class": "juzhong",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "10866284",
+      "name": "合并单元格",
+      "font_class": "hebingdanyuange",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "12550413",
+      "name": "右对齐",
+      "font_class": "youduiqi",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "12978136",
+      "name": "重置",
+      "font_class": "zhongzhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
