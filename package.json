@@ -15,7 +15,7 @@
     "echarts": "^4.5.0",
     "element-ui": "^2.13.0",
     "file-saver": "^2.0.2",
-    "handsontable": "^7.4.2",
+    "handsontable": "^10.0.0",
     "handsontable-pro": "^6.2.3",
     "moment": "^2.24.0",
     "qs": "^6.9.1",
